@@ -24,13 +24,13 @@ th, td {
 .event-red {
   background-color: #f2bcbc;
   border: 1px solid #b92828;
-  color: #b92828;
+  color: #991919;
 }
 
 .event-green {
   background-color: #d1e0bf;
   border: 1px solid #6b7e54;
-  color: #6b7e54;
+  color: #38448e;
 }
 
 .event-blue {
