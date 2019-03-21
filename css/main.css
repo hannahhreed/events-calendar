@@ -13,11 +13,6 @@ th, td {
 
 tbody td {
   height: 11em;
-  font-weight: bold;
-}
-
-ul li {
-  font-weight: normal;
 }
 
 .event {
