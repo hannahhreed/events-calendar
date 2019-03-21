@@ -15,6 +15,10 @@ tbody td {
   height: 11em;
 }
 
+tbody tr {
+  font-weight: bold;
+}
+
 .event {
   border-radius: 5px;
 }
