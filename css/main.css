@@ -22,6 +22,12 @@ th, td {
   border: 1px solid #b92828;
 }
 
-li {
-  text-decoration: none;
+.event-green {
+  background-color: #d1e0bf;
+  border: 1px solid #6b7e54;
+}
+
+.event-blue {
+  background-color: #d2d6f0;
+  border: 1px solid #1d38da;
 }
